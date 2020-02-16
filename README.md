@@ -1,3 +1,5 @@
+![rbt](https://ak5.picdn.net/shutterstock/videos/17583955/thumb/1.jpg)
+
 # Red-Black Tree
 
 This is my Red-Black Tree code written in Java for my fall Databases and Algoritms class. 
